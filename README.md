@@ -4,7 +4,7 @@
 
 | Topic | Activity | time |
 | ----------- | ----------- | ----------- |
-| 1. What is 'Modal verb'? :heart: | Compare two pictures(one with modal verbs, one without them) using DALL-E : find out the differences , Using youtube videos | 10 min |
+| 1. What is 'Modal verb'? :heart: | Compare two pictures(one with modal verbs, one without them) using DALL-E : find out the differences ,/ Using youtube videos | 10 min |
 | 2. Types of Modal Verbs :heart: | Use vocabulary quiz to learn meaning and usage of each modal verbs | 5 min |
 | 3. Rules of Modal verbs :heart: | youtube videos, using tts, listen to the script and find out the rules for themselves | 15 min |
 | 4. Creating Negative and Interrogative Sentences with Modal Verbs :heart: | based on the rules found before upload created sentences on google docs | 10 min |
