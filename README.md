@@ -13,7 +13,7 @@ based on the rules found before upload created sentences on google docs
 kahoot, wordwall
 
 
-| Syntax | Description |
+| Topic | Activity |
 | ----------- | ----------- |
-| Header | Title |
+| 1. What is 'Modal verb'? :heart: - 10 min | Compare two pictures using DALL-E, Using youtube videos |
 | Paragraph | Text |
