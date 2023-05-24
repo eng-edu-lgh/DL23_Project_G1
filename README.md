@@ -1,6 +1,6 @@
 # DL23_Project_G1
 # :cyclone: Grammar :cyclone:
-## Modals :smile:
+## Modals (can, should, will) :smile:
 
 | Topic | Activity | time |
 | ----------- | ----------- | ----------- |
