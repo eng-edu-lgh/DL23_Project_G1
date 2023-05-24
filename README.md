@@ -11,3 +11,9 @@ youtube videos, using tts, listen to the script and find out the rules for thems
 based on the rules found before upload created sentences on google docs
 ### 5. comprehension test :heart: - 10 min
 kahoot, wordwall
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
