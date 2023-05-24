@@ -1,5 +1,5 @@
 # DL23_Project_G1
-# Grammar
+# :cyclone: Grammar :cyclone:
 ## Modals :smile:
 ### 1. What is 'Modal verb'? :heart: - 10 min
 Compare two pictures using DALL-E, Using youtube videos
