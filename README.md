@@ -23,6 +23,6 @@ youtube videos, using tts, listen to the script and find out the rules for thems
 ### 4. Creating Negative and Interrogative Sentences with Modal Verbs  - 10 min
 based on the rules found before upload created sentences on google docs
 ### 5. comprehension test  - 10 min
-kahoot, wordwall
+kahoot, wordwall to check
 
 
