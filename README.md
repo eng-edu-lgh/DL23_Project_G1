@@ -10,7 +10,7 @@
 | 3. Rules of Modal verbs :heart: | using tts, listen to the script and find out the rules for themselves |  |
 |  | Use youtube videos | 15 min |
 | 4. Creating Negative and Interrogative Sentences with Modal Verbs :heart: | based on the rules found before upload created sentences on google docs | 10 min |
-| 5. Comprehension test :heart: | kahoot, wordwall | 10 min |
+| 5. Comprehension test :heart: | kahoot, wordwall to check | 10 min |
 
 
 
