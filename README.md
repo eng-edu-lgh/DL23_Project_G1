@@ -4,7 +4,7 @@
 
 | Topic | Activity | time |
 | ----------- | ----------- | ----------- |
-| 1. What is 'Modal verb'? :heart: | Compare two pictures(one with modal verbs, one without them) using DALL-E : find out the differences |  |
+| 1. What is 'Modal verb'? :heart: | Show them 3 cartoons where each of them explains the situation needing the modal verbs to describe : find out the differences |  |
 |  | Use youtube videos | 10 min |
 | 2. Types of Modal Verbs :heart: | Use vocabulary quiz to learn meaning and usage of each modal verbs | 5 min |
 | 3. Rules of Modal verbs :heart: | Using tts, listen to the script and find out the rules for themselves |  |
@@ -17,7 +17,7 @@
 
 
 ### 1. What is 'Modal verb'? - 10 min
-Compare two pictures using DALL-E, Using youtube videos
+Show them 3 cartoons where each of them explains the situation needing the modal verbs to dexcribe
 ### 2. Types of Modal Verbs - 5 min
 Use vocabulary quiz to learn meaning and usage of each modal verbs
 ### 3. Rules of Modal verbs  - 15 min
