@@ -7,7 +7,7 @@
 | 1. What is 'Modal verb'? :heart: | Show them 3 cartoons where each of them explains the situation needing the modal verbs to describe : find out the differences |  |
 |  | Use youtube videos | 10 min |
 | 2. Types of Modal Verbs :heart: | Use vocabulary quiz to learn meaning and usage of each modal verbs | 5 min |
-| 3. Rules of Modal verbs :heart: | Using tts, listen to the script and find out the rules for themselves-padlet |  |
+| 3. Rules of Modal verbs :heart: | Using tts, listen to the script and find out the rules for themselves-share with padlet |  |
 |  | Use youtube videos | 15 min |
 | 4. Creating Negative and Interrogative Sentences with Modal Verbs :heart: | Based on the rules found before, create sentences and upload them on google docs | 10 min |
 | 5. Comprehension test :heart: | kahoot, wordwall to check | 10 min |
