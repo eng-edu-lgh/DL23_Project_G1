@@ -5,7 +5,7 @@
 | Topic | Activity | time |
 | ----------- | ----------- | ----------- |
 | 1. What is 'Modal verb'? :heart: | Show them 3 cartoons where each of them explains the situation needing the modal verbs to describe : find out the differences |  |
-|  | Use youtube videos | 10 min |
+|  | images(https://github.com/eng-edu-lgh/DL23_Project_G1/tree/main/image) | 10 min |
 | 2. Types of Modal Verbs :heart: | Use vocabulary quiz to learn meaning and usage of each modal verbs | 5 min |
 | 3. Rules of Modal verbs :heart: | Using tts, listen to the script and find out the rules for themselves-share with padlet - QR(O) |  |
 |  | Use youtube videos | 15 min |
