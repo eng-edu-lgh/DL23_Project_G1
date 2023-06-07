@@ -8,7 +8,7 @@
 | 2. Types of Modal Verbs :heart: | Use [vocabulary quiz](https://colab.research.google.com/github/eng-edu-lgh/DL23_Project_G1/blob/main/codes/G1lesson.ipynb) to learn meaning and usage of each modal verbs | 5 min |
 | 3. Rules of Modal verbs :heart: | Using tts, listen to the [script](https://colab.research.google.com/github/eng-edu-lgh/DL23_Project_G1/blob/main/codes/TTS.ipynb) and find out the rules for themselves-share with [padlet](https://padlet.com/engedulgh/write-down-the-rules-ouidyd7x1wtz4nep) |  |
 |  | Use youtube videos | 15 min |
-| 4. Creating Negative and Interrogative Sentences with Modal Verbs :heart: | Based on the rules found before, create sentences and upload them on google docs ( ask one thing to your partner ) | 10 min |
+| 4. Creating Negative and Interrogative Sentences with Modal Verbs :heart: | Based on the rules found before, create sentences and upload them on [google docs](https://docs.google.com/spreadsheets/d/1h_nERv9yWiArpJ379O7wn94AZnpEewW8pHk3HuQIb7g/edit?usp=sharing) ( ask one thing to your partner ) | 10 min |
 | 5. Comprehension test :heart: | wordwall -unjumble to check - QR(O) | 10 min |
 
 
