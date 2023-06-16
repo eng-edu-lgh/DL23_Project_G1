@@ -22,7 +22,7 @@ Use vocabulary quiz to learn meaning and usage of each one
 ### 3. Rules of Modal verbs  - 15 min
 Using tts, listen to the script and find out the rules for themselves
 ### 4. Creating Negative and Interrogative Sentences with Modal Verbs  - 10 min
-Based on the rules found before, write down your own sentences asking one thing to your partner on google docs
+Based on the rules found before, write down your own sentence asking one thing to your partner on google docs
 ### 5. Comprehension test  - 10 min
 Wordwall for final check
 
