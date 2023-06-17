@@ -18,12 +18,13 @@
 ### 1. What is 'Modal verb'? - 10 min
 As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 2. Types of Modal Verbs - 5 min
-As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
+Students can use their digital devices to scan the generated QR codes on the screen and participate in a word quiz. It's an engaging way to incorporate technology and make the lesson more interactive for the students.
+students can gain a clearer understanding of how each modal verb is used in different contexts. It will allow them to grasp the nuances and functions of modal verbs more effectively. This interactive quiz will not only engage the students but also enhance their comprehension of modal verbs.
 ### 3. Rules of Modal verbs  - 15 min
-As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
+Here is a group activity. Through text-to-speech (TTS), we will present a passage that includes modal verbs used in declarative, interrogative, and negative sentences. Students will write down only the sentences that contain modal verbs. If there are any errors, the groups will cross-check and complete the sentences collaboratively. Then, each group will update their findings, along with the completed sentences demonstrating the rules of modal verbs, on Padlet for further discussion.
 ### 4. Creating Negative and Interrogative Sentences with Modal Verbs  - 10 min
-As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
+Now that the students have grasped the rules of modal verbs to some extent, it's time for them to practice using them directly. The activity involves formulating questions to their partners using sentences that include modal verbs. The partners will then write their responses. The questions will be in the form of interrogative sentences with modal verbs, and the responses will be in the form of declarative or negative sentences. This activity will be conducted using Google Docs.
 ### 5. Comprehension test  - 10 min
-As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
+Now it's time for a final check. Through the previous activities, students have learned modal verbs and their rules. In order to assess if there are any students who still have difficulties, we will use a Wordwall-generated matching quiz to arrange sentences containing modal verbs. This serves the purpose of a crierion-referenced assessment, aiming to identify any students who may still need further practice, as the content is relatively easy.
 
 
