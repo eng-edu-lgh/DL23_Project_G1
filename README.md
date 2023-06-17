@@ -2,6 +2,10 @@
 # :cyclone: Grammar :cyclone:
 ## Modals (can, should, will) :smile:
 
+| Target audience | Lesson objectives |
+| ----------- | ----------- |
+| Beginner learners who are learning modal verbs for the first time. | Understanding modal verbs and constructing various types of sentences freely using modal verbs. |
+
 | Topic | Activity | time |
 | ----------- | ----------- | ----------- |
 | 1. What is 'Modal verb'? :heart: | Show them 3 [cartoons](https://github.com/eng-edu-lgh/DL23_Project_G1/tree/main/image) where each of them explains the situation needing the modal verbs to describe : find out the differences | 10 min |
