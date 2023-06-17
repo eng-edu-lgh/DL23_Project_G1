@@ -40,4 +40,4 @@ Now it's time for a final check. Through the previous activities, students have 
 
 
 
-[Video instruction](https://youtu.be/0d963M2PShs)
+[Video](https://youtu.be/0d963M2PShs)
