@@ -20,7 +20,7 @@
 
 
 ## :pencil: Details
-This lesson plan is designed for middle school students who have not been exposed to modal verbs in English. It will focus on three specific modal verbs and aim to teach their meanings and usage.
+This lesson plan is designed for middle school students who have not been exposed to modal verbs in English. It will focus on three specific modal verbs and aim to teach their meanings and usage. I have been thinking about how to maintain students' concentration throughout the class and ways to prevent forgetting easily through active participation. Additionally, I have considered adopting a method where the class content remains on the internet. If the teacher leaves a link, students can review and refresh their memory by following the lesson content from that day.
 ### 1. What is 'Modal verb'? - 10 min
 As an introduction to the lesson, I will show students [three cartoons](https://github.com/eng-edu-lgh/DL23_Project_G1/tree/main/image), each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 2. Types of Modal Verbs - 5 min
