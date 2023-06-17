@@ -16,14 +16,14 @@
 
 
 ### 1. What is 'Modal verb'? - 10 min
-Show them 3 cartoons where each of them explains the situation needing the modal verbs
+As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 2. Types of Modal Verbs - 5 min
-Use vocabulary quiz to learn meaning and usage of each one
+As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 3. Rules of Modal verbs  - 15 min
-Using tts, listen to the script and find out the rules for themselves
+As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 4. Creating Negative and Interrogative Sentences with Modal Verbs  - 10 min
-Based on the rules found before, write down your own sentence asking one thing to your partner on google docs
+As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 5. Comprehension test  - 10 min
-Wordwall for final check
+As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 
 
