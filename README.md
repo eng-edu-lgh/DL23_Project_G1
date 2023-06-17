@@ -16,7 +16,7 @@
 
 
 ### 1. What is 'Modal verb'? - 10 min
-As an introduction to the lesson, I will show students three pictures, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
+As an introduction to the lesson, I will show students <mark>three pictures<mark>, each depicting a situation that includes three modal verbs we will learn today. This will help engage students and enhance their immersion in the class.
 ### 2. Types of Modal Verbs - 5 min
 Students can use their digital devices to scan the generated QR codes on the screen and participate in a word quiz. It's an engaging way to incorporate technology and make the lesson more interactive for the students.
 students can gain a clearer understanding of how each modal verb is used in different contexts. It will allow them to grasp the nuances and functions of modal verbs more effectively. This interactive quiz will not only engage the students but also enhance their comprehension of modal verbs.
