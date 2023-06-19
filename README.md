@@ -1,4 +1,6 @@
 # DL23_Project_G1
+[Colab Page](https://colab.research.google.com/github/eng-edu-lgh/DL23_Project_G1/blob/main/%EC%88%98%EC%97%85.ipynb)
+[Video](https://youtu.be/0d963M2PShs)
 # :cyclone: Grammar :cyclone:
 ## Modals (can, should, will) :smile:
 
@@ -40,4 +42,3 @@ Now it's time for a final check. Through the previous activities, students have 
 
 
 
-[Video](https://youtu.be/0d963M2PShs)
